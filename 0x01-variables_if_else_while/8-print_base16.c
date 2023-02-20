@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: prints base 16 number                                                                           
+ * Description: prints base 16 number
  *Return: Always 0 (Success)
  */
 int main(void)
