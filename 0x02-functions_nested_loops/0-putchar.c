@@ -1,9 +1,8 @@
 #include "main.h"
 
 /**
- * main - print _putchar
- * description:  print main function of void
- * return: 0
+ * main - prints putchar(char c)
+ * Return: always 0
  */
 
 int main(void)
