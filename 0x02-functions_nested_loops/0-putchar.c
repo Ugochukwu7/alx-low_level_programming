@@ -1,10 +1,10 @@
 #include "main.h"
-/**
- * main - main function
- * Description: print the return alphabets putchar
- * return: always 0 (success)
- */
 
+/**
+ * main - print _putchar
+ * description:  print main function of void
+ * return: 0
+ */
 
 int main(void)
 {
@@ -19,4 +19,3 @@ _putchar('r');
 _putchar('\n');
 return (0);
 }
-
