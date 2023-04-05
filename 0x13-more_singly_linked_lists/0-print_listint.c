@@ -19,5 +19,5 @@ printf("%d\n", cursor->n);
 nodes++;
 cursor = cursor->next;
 }
-return (nodess);
+return (nodes);
 }
